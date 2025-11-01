@@ -1,0 +1,263 @@
+department,work_accident,emp_id,left_company,salary_k,education_level,promotion_last_5years,years_at_company,salary_k_dup,last_performance_score
+Finance,No,E60000,0.0,53.06,BACHELORS,No,14.0,53.06,1.0
+Support,o,E60001,1.0,82.23,PhD,,16.0,82.23,3.0
+,N,E60002,0.0,165.15,MASTERS,o,14.0,165.15,4.0
+Sales,NO,,0.0,51.28,,,9.0,51.28,
+Sales,NO,E60004,1.0,39.74,Bachelors,o,27.0,39.74,4.0
+HR,No,,0.0,112.87,HIGH SCHOOL,No,3.0,112.87,5.0
+FINANCE,No,,0.0,120.57,Masters,No,21.0,120.57,5.0
+HR,No,E60007,0.0,36.24,Masters,es,16.0,36.24,4.0
+Engineering,NO,E60008,0.0,71.21,Masters,NO,3.0,71.21,1.0
+Engineering,No,E60009,0.0,67.3,Ph,No,21.0,67.3,
+Sales,o,E60010,0.0,53.52,PhD,NO,22.0,53.52,5.0
+Finance,No,E60011,0.0,76.81,High chool,N,28.0,76.81,3.0
+Sales,No,E60012,0.0,,Bachelors,NO,21.0,,5.0
+Sales,N,E60013,0.0,,PHD,NO,10.0,,5.0
+HR,N,E60014,1.0,197.93,Masters,No,3.0,197.93,4.0
+Sales,o,E60015,0.0,,Bachelors,NO,11.0,,1.0
+SALES,Yes,E60016,0.0,84.99,BACHELORS,NO,28.0,84.99,4.0
+Finance,No,E60017,0.0,140.22,BACHELORS,o,22.0,140.22,5.0
+Finance,NO,E60018,0.0,122.87,,No,9.0,122.87,2.0
+Finance,NO,E60019,,172.42,,N,13.0,172.42,3.0
+Sales,N,E60020,0.0,131.94,PhD,No,17.0,131.94,5.0
+Finance,N,E60021,0.0,134.13,Bachelors,No,5.0,134.13,4.0
+,N,,0.0,59.9,High chool,NO,4.0,59.9,2.0
+Support,No,E60023,0.0,94.81,High School,No,1.0,94.81,2.0
+Support,N,E60024,0.0,81.99,,NO,24.0,81.99,5.0
+Engineerig,No,E60025,,22.06,hD,No,12.0,22.06,1.0
+HR,No,,0.0,76.39,HIGH SCHOOL,N,22.0,76.39,2.0
+HR,N,E60027,0.0,107.49,Msters,No,13.0,107.49,3.0
+Finance,NO,,0.0,127.97,High school,NO,2.0,127.97,4.0
+Engineering,NO,E60029,0.0,,Masters,o,,,4.0
+Engineering,,E60030,0.0,63.04,PhD,NO,10.0,63.04,4.0
+SUPPORT,o,E60031,0.0,47.44,High School,o,26.0,47.44,5.0
+Engineering,NO,E60032,0.0,176.5,High School,N,21.0,176.5,4.0
+Sales,No,E60033,0.0,189.53,High School,NO,22.0,189.53,4.0
+FINANCE,NO,E60034,1.0,107.83,High School,o,3.0,107.83,3.0
+Sales,o,E60035,0.0,40.74,Bacelors,o,12.0,40.74,1.0
+HR,No,E60036,0.0,107.37,Bachelors,No,28.0,107.37,5.0
+Support,o,E60037,0.0,39.7,Ph,o,25.0,39.7,5.0
+Sales,NO,E60038,1.0,178.97,PhD,No,28.0,178.97,4.0
+FINANCE,No,E60039,0.0,147.47,,No,7.0,147.47,
+Sales,No,E60040,0.0,63.4,Bachelors,o,7.0,63.4,2.0
+SALES,NO,E60041,1.0,179.6,PHD,NO,22.0,179.6,4.0
+ENGINEERING,o,,0.0,134.82,Masters,,12.0,134.82,4.0
+Support,,E60043,0.0,191.59,Bachelors,o,22.0,191.59,5.0
+HR,NO,,1.0,196.49,Bachelors,NO,9.0,196.49,5.0
+Finace,No,E60045,0.0,20.59,Bachelors,NO,12.0,20.59,
+,,E60046,,41.64,High Scool,No,,41.64,5.0
+HR,N,E60047,0.0,118.45,Masters,NO,23.0,118.45,
+Finance,NO,E60048,1.0,192.05,,o,16.0,192.05,2.0
+Engineering,N,E60049,0.0,198.96,PhD,Yes,,198.96,
+Sales,NO,E60050,,122.13,,No,1.0,122.13,2.0
+Engneering,o,,,51.28,High School,NO,16.0,51.28,4.0
+Engineering,No,E60052,0.0,49.35,BACHELORS,No,11.0,49.35,4.0
+Engineering,NO,E60053,0.0,157.49,Masters,N,25.0,157.49,4.0
+Hr,No,E60054,0.0,126.55,Bachelors,,22.0,126.55,3.0
+Support,No,E60055,,118.78,PhD,N,5.0,118.78,2.0
+HR,NO,E60056,0.0,103.84,,No,4.0,103.84,5.0
+HR,No,E60057,1.0,150.52,PhD,N,4.0,150.52,5.0
+ENGINEERING,No,E60058,0.0,174.45,PhD,No,24.0,174.45,1.0
+Support,N,E60059,1.0,74.53,Ph,No,8.0,74.53,1.0
+Hr,No,E60060,0.0,59.77,Masters,NO,27.0,59.77,5.0
+Support,NO,E60061,1.0,140.64,PhD,o,27.0,140.64,2.0
+Engineering,No,E60062,1.0,184.65,igh School,,21.0,184.65,4.0
+Hr,No,E60063,0.0,82.67,High School,N,,82.67,5.0
+Suppot,NO,E60064,0.0,69.04,PHD,No,2.0,69.04,5.0
+inance,No,E60065,0.0,60.7,Bachelors,Yes,22.0,60.7,1.0
+R,NO,E60066,1.0,65.81,PhD,,,65.81,2.0
+HR,N,E60067,1.0,44.29,PhD,No,,44.29,5.0
+HR,,E60068,0.0,127.42,Bachelors,NO,6.0,127.42,4.0
+SUPPORT,N,E60069,0.0,70.55,MASTERS,o,11.0,70.55,4.0
+,No,E60070,0.0,130.69,MASTERS,NO,6.0,130.69,3.0
+HR,NO,,0.0,34.95,Phd,o,9.0,34.95,4.0
+Finance,NO,E60072,1.0,,High School,o,7.0,,5.0
+Finance,No,E60073,0.0,116.51,High School,o,16.0,116.51,5.0
+Engineering,NO,E60074,1.0,112.08,HIGH SCHOOL,NO,4.0,112.08,
+Sales,Yes,E60075,,,PhD,No,14.0,,1.0
+Sales,Yes,E60076,1.0,168.88,High School,No,27.0,168.88,2.0
+Suport,N,,0.0,53.67,High School,o,8.0,53.67,5.0
+Engineering,No,E60078,0.0,,Masters,No,22.0,,4.0
+Support,No,E60079,0.0,119.99,PhD,Yes,10.0,119.99,4.0
+Engineering,Yes,E60080,0.0,176.1,Masters,,27.0,176.1,5.0
+Sales,No,E60081,0.0,95.34,Bachelors,N,12.0,95.34,3.0
+Support,,E60082,0.0,91.75,MASTERS,No,17.0,91.75,2.0
+ENGINEERING,o,E60083,,,PD,N,16.0,,5.0
+,No,E60084,,77.01,HIGH SCHOOL,No,23.0,77.01,4.0
+,No,E60085,0.0,,Phd,No,8.0,,3.0
+HR,Yes,E60086,0.0,64.77,,No,9.0,64.77,5.0
+,Yes,E60087,0.0,168.18,PhD,NO,4.0,168.18,2.0
+H,NO,E60088,0.0,69.02,Phd,NO,29.0,69.02,3.0
+Sales,Yes,E60089,0.0,198.69,,No,10.0,198.69,4.0
+SUPPORT,No,E60090,1.0,76.96,Masters,NO,21.0,76.96,1.0
+,NO,E60091,0.0,178.19,Bachelors,N,14.0,178.19,2.0
+Finance,NO,E60092,0.0,91.52,achelors,Yes,1.0,91.52,3.0
+Engineering,o,E60093,0.0,64.29,Masters,N,,64.29,
+Finance,N,E60094,,60.71,,N,20.0,60.71,5.0
+Finance,No,E60095,0.0,173.03,Masters,No,27.0,173.03,3.0
+Sales,No,,,75.58,High School,No,19.0,75.58,5.0
+,NO,E60097,0.0,80.94,Bachelors,o,23.0,80.94,3.0
+Finance,No,E60098,0.0,55.46,,No,,55.46,2.0
+Finance,NO,E60099,0.0,193.04,Phd,o,13.0,193.04,
+Support,o,E60100,0.0,64.05,HIGH SCHOOL,No,4.0,64.05,2.0
+Sales,No,E60101,0.0,64.54,MASTERS,NO,26.0,64.54,4.0
+FINANCE,No,E60102,1.0,189.9,Masters,,23.0,189.9,4.0
+Engineering,No,E60103,0.0,182.16,MASTERS,No,5.0,182.16,4.0
+Hr,No,E60104,1.0,64.8,High School,NO,25.0,64.8,4.0
+HR,No,E60105,0.0,175.65,High school,No,21.0,175.65,5.0
+Sales,NO,E60106,0.0,64.97,High School,N,,64.97,3.0
+HR,,E60107,0.0,35.2,Masters,No,14.0,35.2,5.0
+SUPPORT,No,E60108,,167.67,Masters,No,28.0,167.67,5.0
+Support,No,E60109,1.0,158.88,,No,3.0,158.88,2.0
+Engineering,NO,E60110,0.0,73.04,High School,o,9.0,73.04,3.0
+Sales,No,E60111,0.0,36.23,High School,Yes,27.0,36.23,1.0
+Sals,NO,E60112,0.0,57.16,PhD,No,26.0,57.16,1.0
+Hr,No,E60113,0.0,,Bachelors,,18.0,,3.0
+,No,E60114,0.0,193.65,MASTERS,N,8.0,193.65,1.0
+FINANCE,NO,E60115,0.0,66.62,High school,N,20.0,66.62,3.0
+Finance,No,,0.0,167.29,Bachelors,No,25.0,167.29,2.0
+Engineering,NO,E60117,0.0,61.03,HighSchool,,9.0,61.03,2.0
+Sales,NO,E60118,1.0,,High school,NO,,,5.0
+HR,N,E60119,0.0,35.05,Masters,o,21.0,35.05,1.0
+,No,E60120,1.0,125.35,Bachelors,NO,29.0,125.35,3.0
+Support,N,E60121,0.0,68.45,High School,No,3.0,68.45,
+Support,o,E60122,0.0,186.65,Bachelors,,5.0,186.65,5.0
+upport,o,E60123,0.0,72.16,BACHELORS,No,25.0,72.16,1.0
+SALES,No,E60124,0.0,91.72,Masters,No,7.0,91.72,1.0
+Support,No,E60125,0.0,171.32,BACHELORS,NO,15.0,171.32,1.0
+FINANCE,NO,E60126,,98.89,PhD,NO,7.0,98.89,2.0
+Support,No,E60127,0.0,62.91,PhD,NO,27.0,62.91,2.0
+Engineering,NO,E60128,0.0,118.56,MASTERS,NO,15.0,118.56,1.0
+Support,No,E60129,1.0,171.2,Masters,NO,5.0,171.2,
+Finance,N,E60130,1.0,97.97,PhD,Ye,16.0,97.97,1.0
+Support,No,E60131,0.0,43.92,MASTERS,No,28.0,43.92,4.0
+HR,No,,0.0,88.96,Bachelors,NO,,88.96,2.0
+Finance,o,E60133,0.0,191.81,HighSchool,No,29.0,191.81,3.0
+Sales,No,E60134,0.0,32.96,Masters,o,18.0,32.96,2.0
+Spport,NO,E60135,0.0,93.52,PHD,o,17.0,93.52,1.0
+ENGINEERING,No,E60136,0.0,136.65,High school,No,16.0,136.65,3.0
+Support,NO,E60137,0.0,34.13,Bachelors,Yes,16.0,34.13,5.0
+Engineering,No,E60138,0.0,,High School,No,27.0,,3.0
+HR,o,E60139,0.0,189.3,,N,11.0,189.3,3.0
+Sales,,E60140,0.0,25.51,High School,o,11.0,25.51,2.0
+Finance,No,E60141,0.0,,PhD,N,5.0,,3.0
+Finance,No,E60142,1.0,171.45,Masters,NO,6.0,171.45,
+Sales,o,E60143,0.0,69.87,Masters,No,,69.87,1.0
+HR,No,E60144,0.0,58.65,PhD,NO,2.0,58.65,2.0
+H,o,E60145,0.0,184.67,Masters,NO,16.0,184.67,
+Support,,E60146,0.0,157.52,Bachelors,No,20.0,157.52,
+R,No,E60147,0.0,40.41,High School,NO,7.0,40.41,5.0
+Support,No,E60148,1.0,58.2,PD,es,27.0,58.2,3.0
+Engineering,NO,E60149,0.0,131.84,Ph,No,26.0,131.84,2.0
+Sales,o,E60150,0.0,95.5,hD,No,29.0,95.5,
+Engineering,NO,E60151,0.0,110.75,Bachelors,No,10.0,110.75,3.0
+ENGINEERING,N,E60152,,191.28,Bachelors,No,19.0,191.28,4.0
+ENGINEERING,No,E60153,0.0,95.64,Bachelors,No,17.0,95.64,1.0
+ENGINEERING,N,E60154,0.0,178.7,Phd,NO,15.0,178.7,2.0
+Finance,No,,0.0,138.93,Bachelors,Yes,24.0,138.93,5.0
+H,No,E60156,0.0,41.89,Masters,N,27.0,41.89,4.0
+,,E60157,0.0,154.01,High School,Yes,12.0,154.01,1.0
+SALES,NO,E60158,0.0,113.64,Masters,No,,113.64,5.0
+Engineering,NO,E60159,0.0,60.52,Msters,No,18.0,60.52,5.0
+,N,E60160,1.0,72.12,Bachelors,No,6.0,72.12,3.0
+Support,No,E60161,0.0,120.32,PhD,No,28.0,120.32,1.0
+SALES,N,E60162,0.0,128.31,Maters,No,16.0,128.31,4.0
+Engineering,o,E60163,0.0,194.27,High chool,No,7.0,194.27,2.0
+Saes,No,E60164,0.0,173.85,Bachelors,NO,7.0,173.85,2.0
+HR,NO,E60165,0.0,,Masters,No,,,4.0
+ENGINEERING,No,E60166,0.0,159.32,BACHELORS,o,2.0,159.32,3.0
+Finance,N,,0.0,21.49,High school,,15.0,21.49,
+HR,NO,E60168,1.0,43.37,Bachelors,N,11.0,43.37,5.0
+ales,NO,E60169,1.0,55.95,hD,No,,55.95,1.0
+Finance,,E60170,0.0,127.5,Masters,NO,20.0,127.5,5.0
+Hr,Yes,E60171,0.0,55.04,Masters,o,3.0,55.04,2.0
+Support,NO,E60172,0.0,85.75,PhD,NO,22.0,85.75,4.0
+HR,o,E60173,0.0,63.7,High School,o,26.0,63.7,1.0
+,No,E60174,0.0,,High School,No,6.0,,
+Support,No,E60175,0.0,189.64,BACHELORS,No,10.0,189.64,1.0
+Sales,No,E60176,0.0,199.53,MASTERS,N,23.0,199.53,2.0
+,No,,0.0,143.43,High Schol,YES,4.0,143.43,2.0
+Sales,o,E60178,0.0,123.02,PhD,NO,12.0,123.02,1.0
+Engineering,o,E60179,0.0,147.52,PHD,o,10.0,147.52,3.0
+Engineering,NO,E60180,0.0,,Phd,NO,4.0,,1.0
+Finance,o,E60181,0.0,153.02,High School,No,7.0,153.02,2.0
+Support,No,E60182,,34.74,hD,NO,20.0,34.74,4.0
+Support,NO,E60183,1.0,,Masters,,28.0,,5.0
+HR,No,E60184,0.0,81.82,,No,29.0,81.82,4.0
+Sales,No,E60185,0.0,86.47,Hig School,,28.0,86.47,2.0
+inance,NO,E60186,0.0,81.98,Masters,No,16.0,81.98,4.0
+SALES,N,E60187,0.0,161.68,Ph,o,10.0,161.68,3.0
+Hr,No,E60188,0.0,154.57,,Yes,18.0,154.57,3.0
+HR,,E60189,1.0,20.83,Masters,NO,17.0,20.83,1.0
+Finance,No,E60190,0.0,73.35,Masters,o,,73.35,4.0
+HR,No,E60191,0.0,132.26,Bachelors,No,9.0,132.26,4.0
+Finance,No,E60192,0.0,41.65,PhD,N,,41.65,2.0
+HR,No,E60193,0.0,32.82,PD,No,28.0,32.82,1.0
+Support,NO,E60194,1.0,169.11,,NO,23.0,169.11,1.0
+Finance,No,E60195,0.0,101.48,High school,N,,101.48,4.0
+Support,NO,E60196,1.0,174.02,Bachlors,Yes,24.0,174.02,5.0
+Support,No,E60197,0.0,168.24,Bachelos,No,0.0,168.24,4.0
+Finance,No,,,180.81,High school,No,16.0,180.81,
+Saes,NO,E60199,0.0,28.69,BACHELORS,N,16.0,28.69,4.0
+Engineering,No,E60200,0.0,53.5,,No,0.0,53.5,3.0
+HR,o,E60201,0.0,73.31,Bachelors,No,24.0,73.31,1.0
+HR,No,E60202,0.0,44.52,High School,NO,0.0,44.52,3.0
+Sales,N,E60203,0.0,107.38,Masters,NO,22.0,107.38,5.0
+Engineering,o,E60204,0.0,163.82,Masters,No,21.0,163.82,2.0
+Sales,o,E60205,,191.21,Bachelors,NO,8.0,191.21,5.0
+ENGINEERING,No,E60206,0.0,180.12,BACHELORS,NO,26.0,180.12,1.0
+Finance,NO,E60207,,102.32,Masters,o,24.0,102.32,2.0
+Finance,No,E60208,0.0,134.57,hD,,3.0,134.57,5.0
+Suppot,No,E60209,0.0,61.53,High Scool,No,8.0,61.53,1.0
+,o,E60210,0.0,92.54,Ph,No,13.0,92.54,5.0
+,,E60211,,176.81,Bahelors,N,14.0,176.81,2.0
+Support,NO,E60212,1.0,25.26,Masters,No,15.0,25.26,2.0
+Finance,N,E60213,0.0,115.9,Bachelors,N,,115.9,
+Sales,N,E60214,1.0,177.1,PhD,o,12.0,177.1,3.0
+HR,NO,E60215,0.0,41.96,,YES,13.0,41.96,5.0
+Finance,o,E60216,0.0,196.86,Masers,No,21.0,196.86,5.0
+Finance,No,E60217,,22.23,Masters,N,20.0,22.23,5.0
+Financ,NO,E60218,0.0,179.5,High school,N,8.0,179.5,3.0
+Support,NO,E60219,,83.66,Bacheors,,22.0,83.66,4.0
+Suport,NO,E60220,0.0,43.88,PD,NO,,43.88,2.0
+SUPPORT,N,E60221,0.0,48.32,High School,No,20.0,48.32,1.0
+Support,N,E60222,1.0,146.21,PhD,No,3.0,146.21,2.0
+Sals,No,E60223,1.0,176.73,High School,YES,9.0,176.73,2.0
+Finance,,E60224,0.0,135.39,MASTERS,o,,135.39,4.0
+Sales,NO,E60225,0.0,187.17,High school,,20.0,187.17,2.0
+Suppor,No,E60226,0.0,171.65,Bachelors,YES,8.0,171.65,
+SALES,NO,E60227,0.0,,,,18.0,,
+Finance,N,E60228,0.0,140.5,PHD,,,140.5,3.0
+Finance,o,E60229,0.0,74.83,Masters,o,15.0,74.83,3.0
+Support,No,E60230,1.0,101.81,Masters,No,16.0,101.81,3.0
+FINANCE,No,E60231,0.0,36.93,PhD,No,17.0,36.93,3.0
+Sales,o,E60232,0.0,70.78,Bachelors,N,,70.78,1.0
+Engineering,No,E60233,1.0,133.88,Bachelors,No,,133.88,4.0
+Finance,o,E60234,0.0,,PhD,N,18.0,,5.0
+Sals,No,E60235,0.0,136.56,Masters,No,21.0,136.56,3.0
+Sales,No,E60236,0.0,186.15,PhD,N,14.0,186.15,4.0
+SALES,N,E60237,0.0,20.89,PhD,No,14.0,20.89,5.0
+Finance,No,E60238,0.0,161.44,High School,No,10.0,161.44,2.0
+Engineering,o,E60239,,135.44,PhD,N,,135.44,2.0
+Support,N,,0.0,28.39,,No,21.0,28.39,4.0
+Support,NO,E60241,1.0,162.23,Phd,,15.0,162.23,1.0
+Finance,No,E60242,0.0,60.41,Masters,N,9.0,60.41,1.0
+Finance,o,E60243,0.0,67.85,,N,8.0,67.85,4.0
+Hr,,E60244,0.0,36.83,Bachelors,o,14.0,36.83,
+Engineerig,NO,E60245,1.0,116.19,MASTERS,No,21.0,116.19,1.0
+,N,E60246,0.0,109.68,PhD,No,29.0,109.68,2.0
+Sales,NO,E60247,0.0,82.49,Bachelors,No,4.0,82.49,1.0
+Support,NO,E60248,1.0,50.38,Masters,No,19.0,50.38,1.0
+Finance,Yes,,1.0,170.83,PhD,No,1.0,170.83,4.0
+Finance,NO,E60072,1.0,,High School,o,7.0,,5.0
+Support,N,E60222,1.0,146.21,PhD,No,3.0,146.21,2.0
+Support,o,E60001,1.0,82.23,PhD,,16.0,82.23,3.0
+Suppot,No,E60209,0.0,61.53,High Scool,No,8.0,61.53,1.0
+Sales,NO,E60004,1.0,39.74,Bachelors,o,27.0,39.74,4.0
+Sales,Yes,E60089,0.0,198.69,,No,10.0,198.69,4.0
+HR,Yes,E60086,0.0,64.77,,No,9.0,64.77,5.0
+HR,o,E60139,0.0,189.3,,N,11.0,189.3,3.0
+Suport,N,,0.0,53.67,High School,o,8.0,53.67,5.0
+FINANCE,NO,E60126,,98.89,PhD,NO,7.0,98.89,2.0
+Sales,Yes,E60076,1.0,168.88,High School,No,27.0,168.88,2.0
+Finance,No,E60098,0.0,55.46,,No,,55.46,2.0
